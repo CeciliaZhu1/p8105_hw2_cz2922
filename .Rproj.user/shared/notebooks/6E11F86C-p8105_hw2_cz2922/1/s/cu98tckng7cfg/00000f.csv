@@ -1,0 +1,8 @@
+"0","no_vending_entry_prop ="
+"0","  subway_df |>"
+"0","  filter(vending == ""NO"") |>"
+"0","  summarize("
+"0","    proportion = mean(entry, na.rm = TRUE)"
+"0","  )"
+"0",""
+"0","no_vending_entry_prop"
