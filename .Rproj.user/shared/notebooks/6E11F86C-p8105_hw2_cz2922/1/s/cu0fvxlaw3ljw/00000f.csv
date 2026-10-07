@@ -1,8 +1,0 @@
-"0","mci_combined ="
-"0","  mci_baseline |>"
-"0","  inner_join("
-"0","    mci_amyloid_long,"
-"0","    by = c(""id"" = ""study_id"")"
-"0","  )"
-"0",""
-"0","mci_combined"
